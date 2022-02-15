@@ -1,1 +1,1 @@
-dnAIWDhoiAdoihaodiaosidailksdaw;
+alert("GIBBERISH REMOVED");
